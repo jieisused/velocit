@@ -1,0 +1,9 @@
+{
+  "id": "velocit",
+  "name": "velocit",
+  "version": "1.3-pre",
+  "description": "A playit.gg plugin for Velocity servers",
+  "authors": ["200Tigersbloxed"],
+  "main": "gay.tigers.velocit.Velocit",
+  "dependencies": []
+}
